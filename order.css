@@ -206,11 +206,6 @@
   transition: width 1200ms ease, letter-spacing 600ms ease;
 }
 
-/* .btn-2:hover {
-  letter-spacing: 20px;
-  width: 360px;
-} */
-
 .btn-2:hover {
   animation-name: click-animation;
   animation-duration: 4000ms;
